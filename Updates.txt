@@ -1,0 +1,44 @@
+
+Problem ticket : PRB0045834
+
+Can you please ask Cornerstone to provide clarification of the changes that has been done?
+Did we also had similar order for Pilot? If this is considered as issues resolution I don`t agree we should pay for this.
+But I first want to understand what work they did 
+
+Work: Update the case with the andiry's comments and check with andriy 
+
+----
+
+11119963
+
+SAP: MATTHEW.AUGUSTINE@ZA.NESTLE.COM
+AD : 
+
+----
+
+SCTASK0946471
+
+Winnifred
+
+----
+Robert Dean Ticket 
+
+Excel Title: A. Baur & Company (Pvt) Ltd.
+
+Internal Nestle Contact - Mr Vishva Perera (e mail - vishva.perera@lk.nestle.com, voice  +94 772992128)
+
+----
+
+Training Contact: IRINA.BORGOGNON@NESTLE.COM
+
+Training Title: Advanced Marketing and Sales
+
+User Impacted : Federica.Bellaviti@it.nestle.com
+
+Wait for user Feedback
+
+-----
+
+40261880 : Unit '76307296' of type 'Position' does not exist
+
+Check tomorrows position and data feed file 
